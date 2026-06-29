@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ThreeJS 2D Sprite Action RPG Game",
+  "description": "A polished 2.5D retro action RPG game built with Three.js. Features 8-directional camera-facing character sprites, random enemy spawns, a custom boss fight with attack patterns, item pickups, and an interactive RPG dialog ending screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
